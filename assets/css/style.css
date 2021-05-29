@@ -4546,8 +4546,8 @@ Page Title Area CSS
   background-color: #ff612f;
   position: relative;
   z-index: 1;
-  padding-top: 130px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .page-title-area::before {
@@ -6811,6 +6811,12 @@ SaaS Home Page CSS
 
 .service-details-content .service-details-info .single-info-box:last-child {
   text-align: center;
+}
+
+/*Custom css*/
+.mainMenuWidth
+{
+  width: 100%;
 }
 
 /* End Service details  */
